@@ -1,4 +1,6 @@
 test
 ====
 
-git test
+JavaScript
+
+delete的使用
